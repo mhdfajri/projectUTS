@@ -1,0 +1,8 @@
+{
+    "name": "fajri/utsproject",
+    "type": "project",
+    "license": "gpl",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
